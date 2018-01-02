@@ -1,3 +1,9 @@
+from flask import Flask, request
+import requests
+import json
+
+app = Flask(__name__)
+
 @app.route("/planet-details", methods=['GET'])
 def planet_details():
     planet = request.args['planet']

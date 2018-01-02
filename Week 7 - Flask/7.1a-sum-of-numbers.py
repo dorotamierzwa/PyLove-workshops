@@ -5,9 +5,9 @@ from flask import Flask
 
 app = Flask(__name__)
 
-@app.route("/add/<liczba1>/<liczba2>")
-def add(liczba1, liczba2):
-    suma = int(liczba1) + int(liczba2)
-    return str(suma)
+@app.route("/add/<num1>/<num2>")
+def add(num1, num2):
+    sum = int(num1) + int(num2)
+    return str(sum)
 
 app.run(debug=True)
