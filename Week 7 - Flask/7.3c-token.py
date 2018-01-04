@@ -1,6 +1,4 @@
-# ...po wejściu na /user/<username>/login odpowie komunikatem "Login successful" jeśli podane w JSON-ie hasło zgadza się
-# z wcześniej ustawionym lub – jeśli hasło się nie zgadza albo w ogóle nie zostało ustawione – komunikatem "Wrong password".
-
+# (Do domu) ...po wejściu na /user/<username>/login aplikacja powinna zwracać token w formacie UUID4.
 
 from flask import Flask, request
 import uuid
@@ -33,7 +31,7 @@ def login(username):
 @app.route("/user/<username>/login", methods=['GET'])
 def check_login(username):
     if password == new_password:
-        return "Login successful"
+        return "Login successful" + str(uuid.uuid4())
     else:
         return "Wrong password"
 

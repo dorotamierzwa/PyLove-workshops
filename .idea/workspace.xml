@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d83406ec-174a-4734-9c09-d9b79edee5ba" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.1b-Value Error.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.5-people-request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.5-people.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.1a.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.1a-sum-of-numbers.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.1b.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.2.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.2-status.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.2.request.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.2-status request.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.3a.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.3a-password.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.3a.request.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.3a-password request.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.3b.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.3b-login.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.3b.request.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.3b-login request.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.4a.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py" />
-      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/planet.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/planet.py" />
+      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/6.5.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/7.3c-token.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.3c-token.py" />
+      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py" />
+      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/ostatnie.py" afterPath="$PROJECT_DIR$/Week 7 - Flask/7.6-redirect.py" />
+      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/planet.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Week 7 - Flask/test2.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,42 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="7.4-planet-data.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#293#325#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="planet.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 7 - Flask/planet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.7. Mieszkańcy Tatooine2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 3 - REST API/3.7. Mieszkańcy Tatooine2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,9 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week 5 - OOO 2/6.4.py" />
-        <option value="$PROJECT_DIR$/Week 6 - Flask/6.1.a.py" />
-        <option value="$PROJECT_DIR$/Week 6 - Flask/test.py" />
         <option value="$PROJECT_DIR$/Week 6 - Flask/test2.py" />
         <option value="$PROJECT_DIR$/Week 6 - Flask/6.2.request.py" />
         <option value="$PROJECT_DIR$/Week 6 - Flask/6.2.py" />
@@ -110,8 +69,6 @@
         <option value="$PROJECT_DIR$/Week 8 - HTML, szablony.py" />
         <option value="$PROJECT_DIR$/Week 8 - HTML, szablony/8.1.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/6.1b.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/6.5.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/ostatnie.py" />
         <option value="$PROJECT_DIR$/Week 8 - HTML, szablony/8.1.html" />
         <option value="$PROJECT_DIR$/Week 8 - HTML, szablony/8.2.html" />
         <option value="$PROJECT_DIR$/Week 8 - HTML, szablony/8.3.html" />
@@ -134,11 +91,16 @@
         <option value="$PROJECT_DIR$/Week 7 - Flask/7.3a-password.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/7.1b.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/7.3a-password request.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.3b-login request.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/7.3b-login.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.3c-token.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/planet.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py" />
+        <option value="$PROJECT_DIR$/Week 7 - Flask/ostatnie.py" />
+        <option value="$PROJECT_DIR$/Week 7 - Flask/6.5.py" />
+        <option value="$PROJECT_DIR$/Week 7 - Flask/test.py" />
+        <option value="$PROJECT_DIR$/Week 7 - Flask/7.5-people.py" />
+        <option value="$PROJECT_DIR$/Week 7 - Flask/7.5-people-request.py" />
+        <option value="$PROJECT_DIR$/Week 7 - Flask/7.3b-login request.py" />
+        <option value="$PROJECT_DIR$/Week 7 - Flask/7.3c-token.py" />
       </list>
     </option>
   </component>
@@ -188,11 +150,6 @@
               <item name="PyLadies" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyLadies" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PyLadies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyLadies" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 7 - Flask" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -224,7 +181,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7.4-planet-data">
+  <component name="RunManager" selected="Python.7.3b-login request">
+    <configuration name="6.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 7 - Flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyLadies" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 7 - Flask/7.5-people.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="7.3a-password request" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,7 +254,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="7.4-planet-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7.5-people-request" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -291,44 +266,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyLadies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="planet" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 7 - Flask" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyLadies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 7 - Flask/planet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 7 - Flask/7.5-people-request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.7.3b-login request" />
-      <item index="1" class="java.lang.String" itemvalue="Python.7.3a-password request" />
+      <item index="0" class="java.lang.String" itemvalue="Python.6.5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.7.5-people-request" />
       <item index="2" class="java.lang.String" itemvalue="Python.7.3c-token" />
-      <item index="3" class="java.lang.String" itemvalue="Python.7.4-planet-data" />
-      <item index="4" class="java.lang.String" itemvalue="Python.planet" />
+      <item index="3" class="java.lang.String" itemvalue="Python.7.3a-password request" />
+      <item index="4" class="java.lang.String" itemvalue="Python.7.3b-login request" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.7.4-planet-data" />
-        <item index="1" class="java.lang.String" itemvalue="Python.planet" />
-        <item index="2" class="java.lang.String" itemvalue="Python.7.3b-login request" />
-        <item index="3" class="java.lang.String" itemvalue="Python.7.3a-password request" />
-        <item index="4" class="java.lang.String" itemvalue="Python.7.3c-token" />
+        <item index="0" class="java.lang.String" itemvalue="Python.7.3b-login request" />
+        <item index="1" class="java.lang.String" itemvalue="Python.7.3a-password request" />
+        <item index="2" class="java.lang.String" itemvalue="Python.7.3c-token" />
+        <item index="3" class="java.lang.String" itemvalue="Python.7.5-people-request" />
+        <item index="4" class="java.lang.String" itemvalue="Python.6.5" />
       </list>
     </recent_temporary>
   </component>
@@ -359,9 +316,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.368" sideWeight="0.509375" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -380,26 +336,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.368" sideWeight="0.509375" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.368" sideWeight="0.490625" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39866668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -413,18 +349,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week 3 - REST API/3.3 Auth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 3 - REST API/3.5. Cat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -433,20 +362,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 5 - OOO 2/6.444.py" />
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 5 - OOP/5.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -533,13 +448,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 6 - OOP 2/ddd.py" />
     <entry file="file://$PROJECT_DIR$/Week 8 - HTML, szablony.py" />
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/6.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 8 - HTML, szablony/8.1.py" />
     <entry file="file://$PROJECT_DIR$/Week 8 - HTML, szablony/8.1.html" />
     <entry file="file://$PROJECT_DIR$/Week 8 - HTML, szablony/8.2.html" />
@@ -572,55 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.2-status request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/ostatnie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.1b-Value Error.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3a-password request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3c-token.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3b-login request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3b-login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -664,23 +523,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/planet.py">
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="337">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#293#325#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py">
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/planet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.6-redirect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.2-status request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.1b-Value Error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.5-people.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.5-people-request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3b-login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3c-token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
           <folding>
-            <element signature="e#293#325#0" expanded="true" />
+            <element signature="e#103#135#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3a-password request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3b-login request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

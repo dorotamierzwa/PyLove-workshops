@@ -16,9 +16,12 @@ def planet_data():
     planet = request.args['planet']
     data = requests.get("https://swapi.co/api/planets/?search=" + planet)
     planet_results = data.json()['results']
+
+    if not planet_results:
+        return "Planet {} does not exist.".format(planet)
+
     planet_data = planet_results[0]
-    response = planet_data
-    return json.dumps(response)
+    return json.dumps(planet_data)
 
 
 app.run(debug=True)
