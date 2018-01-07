@@ -7,7 +7,11 @@ app = Flask(__name__)
 
 @app.route("/search", methods=['GET', 'POST'])
 def search():
-    query = request.form.get('query')
-    return render_template('formularz.html', query=query)
+    if request.method == 'GET':
+        return render_template('formularz.html')
+
+    elif request.method == 'POST':
+        query = request.form['query']
+        return render_template('formularz-post.html', query=query)
 
 app.run(debug=True)

@@ -2,9 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Formularz</title>
+    <title>Title</title>
 </head>
 <body>
+    {% if query %}
+        Przesłano {{ query }}
+    {% endif %}
     <form action="/search" method="post">
         <input type="text" name="query">
         <button type="submit">Submit</button>
