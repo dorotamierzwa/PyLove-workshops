@@ -2,9 +2,36 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>List of people</title>
 </head>
 <body>
-$END$
+<h2>Employees</h2>
+
+<table style="width:40%", border="1 px">
+     <tr>
+        <th>First name</th>
+        <th>Last name</th>
+        <th>Employee details </th>
+    </tr>
+{% for employee in table_emp %}
+  <tr>
+    <th> {{ employee.fname }} </th>
+    <th> {{ employee.lname }} </th>
+    <th> <a href="http://127.0.0.1:5000/people/{{ employee.ide }} " >Link</a>  </th>
+  </tr>
+{% endfor %}
+</table>
+
+<h2>Add a new employee:</h2>
+    <form action="/" method="post">
+        <input type="text" name="ide" placeholder="ID">
+        <input type="text" name="fname" placeholder="First name">
+        <input type="text" name="lname" placeholder="Last name">
+        <input type="text" name="pay" placeholder="Pay">
+        <input type="text" name="position" placeholder="Position">
+        <button type="submit">Submit</button>
+    </form>
+
+<form
 </body>
 </html>

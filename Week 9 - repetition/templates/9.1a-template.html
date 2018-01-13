@@ -2,9 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<h1>Bank Account</h1>
+    <h2>Transaction details:</h2>
+    <form action="/account" method="post">
+        <p>Receiver's account:</p>
+        <input type="text" name="account_number">
+        <p>Transfer amount:</p>
+        <input type="text" name="transfer">
+        <p> </p>
+        <button type="submit">Submit</button>
+    </form>
+    {% if transactions %}
+    <h2>Your transactions:</h2>
+    <ol>
+        {% for transfer in transactions %}
+        <li> You transferred {{ transfer }} to account: {{ account_number }} </li>
+        {% endfor %}
+    </ol>
+    {% else %}
+<h2>Your transactions:</h2>
+<p>No transactions</p>
+    {% endif %}
+<h2>Current balance:</h2>
+    {{ balance }}
 </body>
 </html>
