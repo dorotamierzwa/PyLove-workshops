@@ -15,11 +15,11 @@ class Person:
         self.age = age
 
 
-person1 = Person('Jack', 'Sparrow', 40)
-person2 = Person('James', 'Bond', 50)
-person3 = Person('Jackie', 'Chan', 45)
+people_list= [
+    Person('Jack', 'Sparrow', 40),
+    Person('James', 'Bond', 50),
+    Person('Jackie', 'Chan', 45)]
 
-people_list = [person1, person2, person3]
 
 @app.route('/osoby')
 def table_data():
