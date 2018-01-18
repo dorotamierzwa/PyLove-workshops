@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Week 10 - repetition/10.4-converter.py" description="if curr1 == 'PLN':&#10;    if curr2 == 'USD':&#10;        ..." line="17" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d83406ec-174a-4734-9c09-d9b79edee5ba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.1-files.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.2-unique list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.3-cezar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.4-converter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.5a-hehe.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.5b-hehe os.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.7-google.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.8-figures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/10.9-logins.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/encrypted.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/templates/cezar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/templates/google.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 10 - repetition/templates/hehe.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week 9 - repetition/9.2d.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/9.1a.py" afterPath="$PROJECT_DIR$/Week 9 - repetition/9.1a.py" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/9.1b.py" afterPath="$PROJECT_DIR$/Week 9 - repetition/9.1b.py" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/9.2a.py" afterPath="$PROJECT_DIR$/Week 9 - repetition/9.2a.py" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/9.2b.py" afterPath="$PROJECT_DIR$/Week 9 - repetition/9.2b.py" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/9.2c.py" afterPath="$PROJECT_DIR$/Week 9 - repetition/9.2c.py" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/templates/9.1a-template.html" afterPath="$PROJECT_DIR$/Week 9 - repetition/templates/9.1a-template.html" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/templates/9.2a-people.html" afterPath="$PROJECT_DIR$/Week 9 - repetition/templates/9.2a-people.html" />
-      <change beforePath="$PROJECT_DIR$/Week 9 - repetition/templates/9.2b.html" afterPath="$PROJECT_DIR$/Week 9 - repetition/templates/9.2b.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,25 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week 7 - Flask/6.1a-suma liczb.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/Tutorial.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/Templates/index.html" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/templates/index.html" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/templates/home.html" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/templates/layout.html" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/templates/includes/_navbar.html" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/6.2-status request.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.3a-password.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.1b.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.3a-password request.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.3b-login.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/planet.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/ostatnie.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/6.5.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/test.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.5-people.py" />
-        <option value="$PROJECT_DIR$/Week 7 - Flask/7.5-people-request.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/7.3b-login request.py" />
         <option value="$PROJECT_DIR$/Week 7 - Flask/7.3c-token.py" />
         <option value="$PROJECT_DIR$/Week 8 - HTML, templates/8.2.html" />
@@ -102,6 +91,25 @@
         <option value="$PROJECT_DIR$/Week 9 - repetition/templates/9.2b.html" />
         <option value="$PROJECT_DIR$/Week 9 - repetition/9.2c.py" />
         <option value="$PROJECT_DIR$/Week 9 - repetition/templates/9.2a-people.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.1.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.2.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.4.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/templates/cezar.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/templates/10.3-cezar.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/templates/hehe.html" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/5.a-hehe.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.3-cezar.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.5b-hehe os.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.9-logins.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.1-files.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.7-google.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/templates/google.html" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/10.8-figures.py" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/templates/cezar.html" />
+        <option value="$PROJECT_DIR$/Week 10 - repetition/encrypted.py" />
+        <option value="$PROJECT_DIR$/Week 9 - repetition/9.3c.py" />
+        <option value="$PROJECT_DIR$/Week 9 - repetition/9.2d.py" />
       </list>
     </option>
   </component>
@@ -152,6 +160,11 @@
               <item name="PyLadies" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyLadies" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyLadies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyLadies" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 10 - repetition" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,9 +176,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 10 - repetition" />
       <recent name="$PROJECT_DIR$/Week 8 - HTML, szablony/templates" />
       <recent name="$PROJECT_DIR$/Week 1 - repetition" />
     </key>
@@ -182,111 +197,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9.2c">
-    <configuration name="7.1a-sum-of-numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.encrypted">
+    <configuration name="10.3-cezar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 7 - Flask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 10 - repetition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyLadies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 7 - Flask/7.1a-sum-of-numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 10 - repetition/10.3-cezar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="7.4-planet-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 7 - Flask" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 10 - repetition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyLadies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 7 - Flask/7.4-planet-data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 10 - repetition/10.4-converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="9.1b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10.7-google" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9 - repetition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 10 - repetition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyLadies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9 - repetition/9.1b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 10 - repetition/10.7-google.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="9.2b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.a-hehe" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9 - repetition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 10 - repetition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyLadies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9 - repetition/9.2b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 10 - repetition/10.5a-hehe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="9.2c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="encrypted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9 - repetition" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 10 - repetition" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyLadies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9 - repetition/9.2c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 10 - repetition/encrypted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.9.1b" />
-      <item index="1" class="java.lang.String" itemvalue="Python.9.2b" />
-      <item index="2" class="java.lang.String" itemvalue="Python.7.4-planet-data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.7.1a-sum-of-numbers" />
-      <item index="4" class="java.lang.String" itemvalue="Python.9.2c" />
+      <item index="0" class="java.lang.String" itemvalue="Python.10.4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.10.3-cezar" />
+      <item index="2" class="java.lang.String" itemvalue="Python.5.a-hehe" />
+      <item index="3" class="java.lang.String" itemvalue="Python.10.7-google" />
+      <item index="4" class="java.lang.String" itemvalue="Python.encrypted" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.9.2c" />
-        <item index="1" class="java.lang.String" itemvalue="Python.9.1b" />
-        <item index="2" class="java.lang.String" itemvalue="Python.9.2b" />
-        <item index="3" class="java.lang.String" itemvalue="Python.7.1a-sum-of-numbers" />
-        <item index="4" class="java.lang.String" itemvalue="Python.7.4-planet-data" />
+        <item index="0" class="java.lang.String" itemvalue="Python.encrypted" />
+        <item index="1" class="java.lang.String" itemvalue="Python.10.7-google" />
+        <item index="2" class="java.lang.String" itemvalue="Python.10.3-cezar" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5.a-hehe" />
+        <item index="4" class="java.lang.String" itemvalue="Python.10.4" />
       </list>
     </recent_temporary>
   </component>
@@ -331,6 +346,7 @@
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39866668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -339,7 +355,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -356,87 +371,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week 3 - REST API/3.7. Mieszkancy Tatooine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3 - REST API/3.7. Mieszkańcy Tatooine2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/planet.py" />
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/test2.py" />
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/test.py" />
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.5-people-request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3b-login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3a-password request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.3b-login request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/8.1.py" />
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/8.1-CV.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/8.5.py" />
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/emoji.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/templates/8.6a-result.html" />
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/templates/test.html" />
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/test.py" />
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/templates/8.6c-post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/templates/8.6c-get.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/templates/formularz.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -587,14 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/8.6b-error-msg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 7 - Flask/7.2-status.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -623,14 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 9 - repetition/9.2b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -667,24 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 9 - repetition/9.2c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 9 - repetition/templates/9.2a-people.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="64" lean-forward="false" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 9 - repetition/9.1b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -697,6 +602,188 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 8 - HTML, templates/8.6b-error-msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.3-cezar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/templates/cezar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/beczka-smiechu.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 9 - repetition/9.2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.5a-hehe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/templates/hehe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.2-unique list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.3-cezar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.5b-hehe os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 9 - repetition/templates/9.2a-people.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.1-files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.7-google.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/templates/google.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#center#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#center#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/templates/cezar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/encrypted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 9 - repetition/9.2d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 9 - repetition/9.2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.4-converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.8-figures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 10 - repetition/10.9-logins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="75" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="2" selection-end-column="75" />
           <folding />
         </state>
       </provider>
