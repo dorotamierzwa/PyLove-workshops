@@ -27,7 +27,10 @@ table_emp = [
 
 @app.route('/people', methods=['GET', 'POST'])
 def people_list():
-    if request.method == 'POST':
+    if request.method == 'GET':
+        return render_template('9.2a-people.html', table_emp=table_emp)
+
+    elif request.method == 'POST':
         ide = int(request.form.get('ide'))
         fname = request.form.get('fname')
         lname = request.form.get('lname')
@@ -35,11 +38,9 @@ def people_list():
         position = request.form.get('position')
         new_emp = Employee(ide, fname, lname, pay, position)
 
-        if new_emp is not None:
+        if new_emp:
             table_emp.append(new_emp)
-        return redirect('/people')
-
-    return render_template('9.2a-people.html', table_emp=table_emp)
+            return render_template('9.2a-people.html', table_emp=table_emp)
 
 
 @app.route('/people/<ide>')

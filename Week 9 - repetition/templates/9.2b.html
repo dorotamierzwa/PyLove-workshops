@@ -11,5 +11,9 @@
     <li>Employee position: {{ employee.position }} </li>
     <li>Employee pay: {{ employee.pay }} </li>
 </ul>
+
+    <form action="/people/{{ employee.ide }}" method="post">
+        <button type="submit">Remove employee</button>
+    </form>
 </body>
 </html>
