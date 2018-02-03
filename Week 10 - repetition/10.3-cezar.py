@@ -4,21 +4,31 @@
 # Przydatny operator: % (modulo)
 # Przydatna informacja: alfabet łaciński ma 26 liter
 
-from flask import Flask, request, render_template, redirect
+from flask import Flask, request, render_template
 
 app = Flask(__name__)
 
+
+def cesar_encryption(word, offset):
+    encrypted_word = ''
+    for character in word:
+        if ord(character) >= 97 and ord(character) <= 122:
+            encrypted_word += chr((ord(character) + offset + 7) % 26 + 97)
+
+        else:
+            encrypted_word += character
+
+    return encrypted_word
+
+
 @app.route('/', methods=['GET', 'POST'])
-def cezar_handler():
+def cesar_handler():
+    encrypted_text = ''
     if request.method == 'POST':
-        word = request.form['text']
-        offset = int(request.form['offset'])
+        offset = int(request.form.get('offset', 0))
+        word = request.form.get('text', '')
+        encrypted_text = cesar_encryption(word, offset)
 
-        for letter in word:
-
-
-            return word
-
-    return render_template('cezar.html')
+    return render_template('cezar.html', encrypted_text=encrypted_text)
 
 app.run(debug=True)

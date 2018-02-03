@@ -4,24 +4,24 @@
 # zaś wczytywanie treści pliku powinno znaleźć się w oddzielnej funkcji (wraz z obsługą błędów)
 
 
-choice = input("Which file to open? \n"
-                "1. x.txt \n"
-                "2. y.txt \n"
-                "3. z.txt \n"
-                "Choose a number:")
-
-if choice == "1":
-    file = open('x.txt', 'r')
-elif choice == "2":
-    file = open('y.txt', 'r')
-elif choice == "3":
-    file = open('z.txt', 'r')
-
-def read_file():
+def load_file(opt):
+    available_files = {'1': 'x', '2': 'y', '3': 'z'}
     try:
-        print("Your content is below: \n", file.readlines())
-    except:
-        print("No such file in the directory.")
+        filename = '{}.txt'.format(available_files[opt])
+        with open(filename, 'r') as f:
+            return f.read()
+
+    except KeyError:
+        return None
 
 
-read_file()
+success = False
+
+while not success:
+    opt = input('Choose a file to open.')
+    content = load_file(opt)
+    if content:
+        success = True
+        print('Wow I loaded: {}'.format(content))
+    else:
+        print('I don\'t know this one')

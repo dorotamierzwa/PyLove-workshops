@@ -7,26 +7,22 @@
 # input: "2 PLN to USD" output: "2000 USD"
 # input "15 USD to PLN" output: "0.015 PLN"
 
-exchange = input("Please input an amount for exchange as in the example below\n"
-               "'2 PLN to USD'\n")
+converter = {
+    'USD': 1000, 'EUR': 4505, 'JPY': 100, 'PLN': 1}
+
+def convert(currencies):
+    value_in, value_out = currencies.split(' to ')
+    # import pdb;
+    # pdb.set_trace()
+    if value_out == 'PLN':
+        amount_in, curr_in = value_in.strip().split(' ')
+        amount_out = float(amount_in) / converter.get(curr_in.strip())
+    else:
+        amount_in, curr_in = value_in.strip().split(' ')
+        amount_out = float(amount_in) * converter.get(value_out)
+
+    return print(amount_out, value_out)
 
 
-details = exchange.split(' ')
-curr1 = details[1]
-curr2 = details[-1]
-amount = int(details[0])
-if curr1 == 'PLN':
-    if curr2 == 'USD':
-        print(amount * 1000, 'USD')
-    if curr2 == 'EUR':
-        print(amount * 4505, 'EUR')
-    if curr2 == 'JPY':
-        print(amount * 100, 'JPY')
-elif curr2 == 'PLN':
-    if curr1 == 'USD':
-        print(amount / 1000, 'PLN')
-    if curr1 == 'EUR':
-        print(amount / 4505, 'PLN')
-    if curr1 == 'JPY':
-        print(amount / 100, 'PLN')
-
+convert('15 USD to PLN')
+convert('2 PLN to USD')

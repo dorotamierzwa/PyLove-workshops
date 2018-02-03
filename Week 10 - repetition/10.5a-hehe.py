@@ -2,26 +2,24 @@
 # "heheszki.json" lub "beczka_smiechu.txt" (zawartość dowolna, powinny znajdować się w katalogu z aplikacją).
 # Obsłuż sytuację, w której plik nie będzie istniał.
 
-from flask import Flask, render_template
+from flask import Flask, request
 
 app = Flask(__name__)
 
-@app.route('/open/<name>', methods=['GET'])
-def hehe(name):
-    name = str(name)
-    if name == 'hehe':
-        with open('hehe.txt') as file:
-            text = file.readline()
-            return render_template('hehe.html', name=name, text=text)
-    elif name == 'heheszki':
-        with open('heheszki.json') as file:
-            text = file.readline()
-            return render_template('hehe.html', name=name, text=text)
-    elif name == 'beczka-smiechu':
-        with open('beczka-smiechu.txt') as file:
-            text = file.readline()
-            return render_template('hehe.html', name=name, text=text)
-    elif ValueError:
-        return "Nie ma tu nic heh"
+
+@app.route('/', methods=['POST', 'GET'])
+def loading():
+
+    data = request.get_json()
+    filename = data['file']
+
+    try:
+        with open(filename, 'r') as f:
+            content = f.read()
+        return content
+
+    except FileNotFoundError:
+        return "Cannot load such file"
+
 
 app.run(debug=True)
