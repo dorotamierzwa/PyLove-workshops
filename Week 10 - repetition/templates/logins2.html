@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<body>
+
+{% if not success %}
+
+<h3>Such credentials already exists! Login below:</h3>
+<form action="/login" method="post">
+    <input type="text" name="username1">
+    <input type="text" name="password1">
+    <button type="submit">Login</button>
+</form>
+
+{% else %}
+<h3>You are logged in as {{ username1 }}</h3>
+{% endif %}
+</body>
+</html>

@@ -10,10 +10,9 @@ import os.path
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET'])
+@app.route('/', methods=['POST'])
 def loading():
-    data = request.args()
-    filename = data.get('file')
+    filename = request.args['file']
 
     content = ''
 
