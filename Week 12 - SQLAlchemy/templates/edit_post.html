@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit post</title>
+</head>
+<body>
+Provide new subject and content of the post:
+<form method="post" action="/edit/{{ ide }}">
+    <input type="text" name="edited_subject">
+    <input type="text" name="edited_content">
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>

@@ -5,18 +5,37 @@
     <title>Title</title>
 </head>
 <body>
-<form method="post" action="/new-post">
+
+<h3><a href="http://127.0.0.1:5000/about-me">About</a> </h3>
+<div class=""large-6 columns>
+    <h3>Blog posts:</h3>
+    Create new post:
+    <form method="post" action="/new-post">
     <input type="text" name="content">
     <button type="submit">Submit</button>
 </form>
-<div class=""large-6 columns>
-    <h3>Blog posts:</h3>
-    <ul>
+    <br>
+    <h3>Search for posts:</h3>
+    <form method="post" action="/search-results">
+        <input type="text" name="search_subject" placeholder="subject">
+        <input type="text" name="search_content" placeholder="content">
+        <button type="submit">Search</button>
+    </form>
+
+    <br>
+    <h3>Posts:</h3>
+    <ol>
         {% for post in blogposts %}
             <ul>Subject: {{ post.subject }}</ul>
             <ul>Text: {{ post.text }}</ul>
+        <form method="get" action="/edit/{{ post.id }}">
+            <button type="submit">Edit</button>
+        </form>
+        <form method="post" action="/delete/ {{ post.id }}">
+            <button type="submit">Delete</button>
+        </form>
         {% endfor %}
-    </ul>
+    </ol>
 </div>
 </body>
 </html>
