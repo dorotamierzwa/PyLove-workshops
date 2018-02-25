@@ -5,6 +5,8 @@ from models import BlogPosts, User
 
 
 from flask import render_template, request, redirect
+import random
+from datetime import datetime
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -56,3 +58,8 @@ def search_posts():
         return render_template('search-results.html', search_content=search_content, search_subject=search_subject,
                                blogposts=blogposts)
 
+@app.route('/lucky', methods=['GET'])
+def feelin_lucky():
+    blogposts = BlogPosts.query.all()
+    lucky_post = random.choice(blogposts)
+    return render_template('lucky.html', lucky_post=lucky_post)

@@ -6,8 +6,6 @@ from sqlalchemy.types import Boolean
 
 from main import db
 
-import datetime
-
 
 class User(db.Model):
     """

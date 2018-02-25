@@ -9,10 +9,11 @@
 {% if search_content %}
     Posts found:
     {% for post in blogposts %}
-        {% if search_content in post.text %}
+        {% if search_content.lower() in post.text.lower() %}
         <ul>
-            {{ post.subject }}
-            {{ post.text }}
+            Subject: {{ post.subject }}
+            Content: {{ post.text }}
+            <br>
         </ul>
         {% endif %}
     {% endfor %}
@@ -20,10 +21,11 @@
 
 {% if search_subject %}
     {% for post in blogposts %}
-        {% if search_subject in post.subject %}
+        {% if search_subject.lower() in post.subject.lower() %}
         <ul>
-            {{ post.subject }}
-            {{ post.text }}
+            Subject: {{ post.subject }}
+            Content: {{ post.text }}
+            <br>
         </ul>
         {% endif %}
     {% endfor %}
