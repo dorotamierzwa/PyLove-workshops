@@ -6,6 +6,7 @@ from flask import Flask
 from flask_login import LoginManager
 from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
+from views import *
 
 
 app = Flask(__name__)
@@ -22,5 +23,5 @@ app.static_path = path.join(path.abspath(__file__), 'static')
 
 
 if __name__ == '__main__':
-    from views import *
+
     app.run(debug=True)

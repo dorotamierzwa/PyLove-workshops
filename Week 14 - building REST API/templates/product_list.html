@@ -6,8 +6,16 @@
 </head>
 <body>
 {% for product in products %}
-<ul> {{ product.name }}</ul>
-<ul> {{ product.description }}</ul>
+    {% for review in reviews %}
+<ol> <ul> <b>Product</b> {{ product.name }}
+                        <br> Description: {{ product.description }} </ul>
+                        <br>
+    <ul> <b>Reviews</b> <br> Author: {{ review.author }}
+                        <br> Rating: {{ review.rating }}
+                        <br> Comment: {{ review.text }} </ul>
+</ol>
+<br>
+    {% endfor %}
 {% endfor %}
 </body>
 </html>

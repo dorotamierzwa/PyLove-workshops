@@ -11,9 +11,6 @@ from main import db
 
 
 class Product(db.Model):
-    """
-    Product model for reviewers.
-    """
     __tablename__ = 'product'
     id = Column(Integer, autoincrement=True, primary_key=True)
     name = Column(String(200), default='')
